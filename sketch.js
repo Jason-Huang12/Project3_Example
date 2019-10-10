@@ -1,6 +1,6 @@
 var img;
 function preload() {
-img = loadImage("Images/fireball-PNG-transparent-background-thumb35.png");
+img = loadImage("Images\fireball-PNG-transparent-background-thumb35.png");
 }
 
 function setup() {
