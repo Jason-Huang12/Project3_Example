@@ -4,7 +4,7 @@ img = loadImage("Images/fireball-PNG-transparent-background-thumb35.png");
 }
 
 function setup() {
-createCanvas(480,500);
+createCanvas(480,480);
 }
 
 function draw() {
