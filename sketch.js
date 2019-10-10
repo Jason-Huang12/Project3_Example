@@ -1,4 +1,4 @@
-var imag;
+var img;
 function preload() {
 img = loadImage("Images/fireball-PNG-transparent-background-thumb35.png");
 }
