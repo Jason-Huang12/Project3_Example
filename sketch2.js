@@ -13,5 +13,5 @@ function draw() {
   rect(50,50,50,50);
   fill(255,0,0);
   rect(380,50,50,50);
-  image(img,0,0);
+  image(img,50,50);
 }
